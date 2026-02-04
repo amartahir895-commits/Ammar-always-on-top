@@ -1,54 +1,46 @@
-🎥 VIDEO TUTORIAL
-👉 https://youtu.be/wX63h_9TgT0
----
+⚡ Λ௱௱Λ尺 н4ㄈҚ3尺 ⚡
+PREMIUM FREE FIRE TCP BOT - 2026 EDITION
+
+Ammar H4ck3r Tool is here! Is tool ke saath aap game mein unlimited emotes, rare badges, aur auto-level up features ka maza le sakte hain.
 
 📢 JOIN OUR COMMUNITY
+Stay updated with the latest scripts and tools!
 
-🔹 Telegram Channel
-👉 https://t.me/+NNjmL2bYZIk2ZTJl
+🔹 WhatsApp Channel 👉 Join Now
 
-🔹 Telegram Folder
-👉 https://t.me/addlist/1JDzkyxqOmEyNTY1
+🔹 Telegram Channel 👉 Join Now
 
-🔹 WhatsApp Channel
-👉 https://whatsapp.com/channel/0029VbBxel1GpLHMXwZabV17
+📂 TOOL FEATURES & COMMANDS
+Bot join hote hi niche diye gaye commands use karein:
 
-🔹 WhatsApp Group
-👉 https://chat.whatsapp.com/DcDHGuTCGFQAXUnOR84Ah0?mode=hqrt2
+Emote Show: /rio {uid} (Doctor Strange & Rare Emotes)
 
+Auto Join: /join {teamcode} (Instant group entry)
 
----
+Message Spam: /ms {your message} (Custom text spamming)
 
-📂 FILE CREDIT
+Badge Spam:
 
-🙏 Credit goes to:
-👉 https://t.me/BlackApis
+/s1 → Craftland Badge
 
+/s3 → Moderator Badge
 
----
+/s5 → Rare Pro Badge
 
-❓ IS IT SAFE?
+Lag Mode: /lag (To test server response)
 
-✅ YES, IT IS FULLY SAFE
+🎥 HOW TO SETUP?
+Agar setup samajh nahi aa raha, toh step-by-step tutorial dekhein:
 
-⚠️ Important Warning:
-Do NOT overuse the Level Up command on your main ID.
-Excessive use may result in a 7-day suspension.
-👉 Use wisely and at your own responsibility.
+👉 Watch Video Tutorial
 
-👉 Other Commands are Fully Safe ✅
----
+⚠️ IMPORTANT SAFETY NOTE
+Is it safe? Yes, 100% safe for fun.
 
-⚙️ EXTRA COMMANDS
+Warning: Main ID par Level Up command ka zyada use na karein (7-day ban risk).
 
-(Not shown in video due to time limit)
+Recommendation: Hamesha pehle Guest ID par try karein.
 
-🔹 /ms {your message} → Spam custom message
-🔹 /rio {uid} → Doctor Strange emote
-🔹 /join teamcode → Join team instantly
-🔹 And many more hidden features…
+Credit: @AmmarDevx | Powered By: AMMAR H4CK34
 
-✨ Watch full video, join the community & stay updated!
-🔥 Subscribe & support SPIDEERIO GAMING
-
-
+Kya aap chahte hain ki main iske liye koi specific "Termux" command list ya installation script bhi likh kar doon?
